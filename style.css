@@ -1,0 +1,30 @@
+.heading {
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 20px rgb(0, 255, 255);
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.heading_2 {
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+}
+
+.footer {
+    position: fixed;
+    color: black;
+    background-color: rgb(0, 255, 212);
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    line-height: 3;
+    box-shadow: 5px 5px 20px rgb(0, 255, 255);
+}
+
+canvas {
+    border: 5px solid rgb(0, 255, 255);
+    border-radius: 20px;
+    box-shadow: 5px 5px 20px rgb(0, 255, 212);
+}
